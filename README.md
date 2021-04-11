@@ -1,4 +1,4 @@
-<a href='https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi' target='_blank'><img class='header-img' src='https://s3.amazonaws.com/codingwithmitch-static-and-media/media/Google+Maps+and+Directions/1.png' /></a>
+<a href='https://www.youtube.com/3?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi' target='_blank'><img class='header-img' src='https://s3.amazonaws.com/codingwithmitch-static-and-media/media/Google+Maps+and+Directions/1.png' /></a>
 
 <h1><a href='https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi' target='_blank'>Google Maps and Directions API</a></h1>
 <h3>Watch the course on YouTube: <a href='https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi' target='_blank'>here</a>.</h3>
